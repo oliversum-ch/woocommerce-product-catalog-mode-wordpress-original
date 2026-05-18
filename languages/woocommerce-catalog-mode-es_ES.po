@@ -1,0 +1,713 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Catalog Mode\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-05-18 13:21+0000\n"
+"PO-Revision-Date: 2021-05-18 13:23+0000\n"
+"Last-Translator: WeLaunch\n"
+"Language-Team: Spanish (Spain)\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.7.2"
+
+#: admin/options-init.php:89
+msgid "\">register your License here</a>."
+msgstr "\"> registre su licencia aquí </a>."
+
+#: admin/options-init.php:282 admin/options-init.php:348
+#: admin/options-init.php:473
+msgid "_blank (new Window)"
+msgstr "_blank (nueva ventana)"
+
+#: admin/options-init.php:283 admin/options-init.php:349
+#: admin/options-init.php:474
+msgid "_parent (parent Window)"
+msgstr "_parent (ventana principal)"
+
+#: admin/options-init.php:281 admin/options-init.php:347
+#: admin/options-init.php:472
+msgid "_self (same Window)"
+msgstr "_self (misma ventana)"
+
+#: admin/options-init.php:284 admin/options-init.php:350
+#: admin/options-init.php:475
+msgid "_top (full body of the Window)"
+msgstr "_top (cuerpo completo de la ventana)"
+
+#: admin/options-init.php:762
+msgid "Add some stylesheet if you want."
+msgstr "Agregue alguna hoja de estilo si lo desea."
+
+#: admin/options-init.php:196
+msgid "Add to Cart Button Text"
+msgstr "Agregar al carrito de texto del botón"
+
+#: admin/options-init.php:197
+msgid "Add to Enquiry Basket"
+msgstr "Añadir a la cesta de consultas"
+
+#: admin/options-init.php:294
+msgid "Adds a custom enquiry / go to button in product category pages."
+msgstr ""
+"Agrega un botón de consulta / ir a personalizado en las páginas de "
+"categorías de productos."
+
+#: admin/options-init.php:732
+msgid "Advanced settings"
+msgstr "Ajustes avanzados"
+
+#: admin/options-init.php:432 admin/options-init.php:504
+msgid "After Main Product"
+msgstr "Después del producto principal"
+
+#: admin/options-init.php:429 admin/options-init.php:501
+msgid "After Meta Information"
+msgstr "Después de la metainformación"
+
+#: admin/options-init.php:431 admin/options-init.php:503
+msgid "After Single Product"
+msgstr "Después de un solo producto"
+
+#: admin/options-init.php:430 admin/options-init.php:502
+msgid "After Single Product Summary"
+msgstr "Después del resumen de un solo producto"
+
+#: admin/options-init.php:713
+msgid "All"
+msgstr "Todas"
+
+#: admin/options-init.php:397
+msgid "Always show button"
+msgstr "Mostrar siempre el botón"
+
+#: admin/options-init.php:307
+msgid "Always show loop button"
+msgstr "Mostrar siempre el botón de bucle"
+
+#: admin/options-init.php:703
+msgid "Apply Catalog Mode for specific users / roles."
+msgstr "Aplicar el modo de catálogo para usuarios / roles específicos."
+
+#: admin/options-init.php:710
+msgid "Apply for users"
+msgstr "Solicitar usuarios"
+
+#: admin/options-init.php:223
+msgid "At what hook position should the button appear."
+msgstr "En qué posición del gancho debería aparecer el botón."
+
+#: admin/options-init.php:133
+msgid "Available in store"
+msgstr "Disponible en tienda"
+
+#: admin/options-init.php:496
+msgid "Before Main Content"
+msgstr "Antes del contenido principal"
+
+#: admin/options-init.php:428 admin/options-init.php:500
+msgid "Before Meta Information"
+msgstr "Antes de la metainformación"
+
+#: admin/options-init.php:425 admin/options-init.php:497
+msgid "Before Single Product"
+msgstr "Antes de un solo producto"
+
+#: admin/options-init.php:426 admin/options-init.php:498
+msgid "Before Single Product Summary"
+msgstr "Antes del resumen de producto único"
+
+#: admin/options-init.php:210 admin/options-init.php:323
+#: admin/options-init.php:449
+msgid "Button Action"
+msgstr "Acción del botón"
+
+#: admin/options-init.php:222
+msgid "Button Action Hook"
+msgstr "Gancho de acción de botón"
+
+#: admin/options-init.php:270 admin/options-init.php:336
+#: admin/options-init.php:461
+msgid "Button custom URL"
+msgstr "URL personalizada del botón"
+
+#: admin/options-init.php:278 admin/options-init.php:344
+msgid "Button custom URL target"
+msgstr "Objetivo de URL personalizado del botón"
+
+#: admin/options-init.php:421
+msgid "Button Position"
+msgstr "Posición del botón"
+
+#: admin/options-init.php:439
+msgid "Button Priority"
+msgstr "Prioridad de botón"
+
+#: admin/options-init.php:315 admin/options-init.php:413
+msgid "Button Text"
+msgstr "Botón de texto"
+
+#: admin/options-init.php:81
+msgid "Catalog Mode"
+msgstr "Modo de catálogo"
+
+#: admin/options-init.php:578
+msgid "Configure if you want to show variations."
+msgstr "Configure si desea mostrar variaciones."
+
+#: admin/options-init.php:686
+msgid "Countries to exclude"
+msgstr "Países a excluir"
+
+#: admin/options-init.php:469
+msgid "Custom Button URL target"
+msgstr "Objetivo de URL de botón personalizado"
+
+#: admin/options-init.php:761
+msgid "Custom CSS"
+msgstr "CSS personalizado"
+
+#: admin/options-init.php:733
+msgid "Custom stylesheet / javascript."
+msgstr "Hoja de estilo personalizada / javascript."
+
+#: public/class-woocommerce-catalog-mode-public.php:981
+#: public/class-woocommerce-catalog-mode-public.php:1141
+msgid "Description"
+msgstr "Descripción"
+
+#: admin/options-init.php:591
+msgid "Display as"
+msgstr "Mostrar como"
+
+#: admin/options-init.php:593
+msgid "Dropdown"
+msgstr "Desplegable"
+
+#: admin/options-init.php:96 admin/options-init.php:148
+#: admin/options-init.php:301 admin/options-init.php:391
+#: admin/options-init.php:585
+msgid "Enable"
+msgstr "Permitir"
+
+#: admin/options-init.php:97
+msgid "Enable catalog mode to use the options below"
+msgstr "Habilite el modo de catálogo para usar las siguientes opciones"
+
+#: admin/options-init.php:149
+msgid ""
+"Enable the enquiry cart. Make sure you have not enabled to remove the add to "
+"cart button in general settings."
+msgstr ""
+"Habilite el carrito de consultas. Asegúrese de no haber habilitado para "
+"eliminar el botón Agregar al carrito en la configuración general."
+
+#: admin/options-init.php:631
+msgid "Enable to show the variation attributes."
+msgstr "Habilite para mostrar los atributos de variación."
+
+#: admin/options-init.php:617
+msgid "Enable to show the variation description."
+msgstr "Habilite para mostrar la descripción de la variación."
+
+#: admin/options-init.php:603
+msgid "Enable to show the variation Image."
+msgstr "Habilite para mostrar la imagen de variación."
+
+#: admin/options-init.php:624
+msgid "Enable to show the variation price."
+msgstr "Habilite para mostrar el precio de variación."
+
+#: admin/options-init.php:610
+msgid "Enable to show the variation SKU."
+msgstr "Habilite para mostrar el SKU de variación."
+
+#: admin/options-init.php:586
+msgid "Enable to show variations."
+msgstr "Habilite para mostrar variaciones."
+
+#: admin/options-init.php:302
+msgid "Enables the custom button on loop pages."
+msgstr "Habilita el botón personalizado en las páginas de bucle."
+
+#: admin/options-init.php:392
+msgid "Enables the single product custom button."
+msgstr "Habilita el botón personalizado de un solo producto."
+
+#: admin/options-init.php:203
+msgid "Enquiry Button Text"
+msgstr "Texto del botón de consulta"
+
+#: admin/options-init.php:140
+msgid "Enquiry Cart"
+msgstr "Carrito de consultas"
+
+#: admin/options-init.php:242 admin/options-init.php:511
+msgid "Enquiry contact form"
+msgstr "Formulario de contacto para consultas"
+
+#: admin/options-init.php:328
+msgid "Enquiry Form"
+msgstr "Formulario de Consulta"
+
+#: admin/options-init.php:257 admin/options-init.php:562
+msgid "Enquiry Modal size"
+msgstr "Consulta Tamaño modal"
+
+#: admin/options-init.php:491
+msgid "Enquiry Position"
+msgstr "Puesto de consulta"
+
+#: admin/options-init.php:234 admin/options-init.php:483
+msgid "Enquiry Title"
+msgstr "Título de la consulta"
+
+#: admin/options-init.php:680
+msgid "Exclude Countries"
+msgstr "Excluir países"
+
+#: admin/options-init.php:650
+msgid "Exclude Product Categories"
+msgstr "Excluir categorías de productos"
+
+#: admin/options-init.php:668
+msgid "Exclude Products"
+msgstr "Excluir productos"
+
+#: admin/options-init.php:681
+msgid "Exclude some countries from this plugin."
+msgstr "Excluya algunos países de este complemento."
+
+#: admin/options-init.php:723
+msgid "Exclude User Roles"
+msgstr "Excluir roles de usuario"
+
+#: admin/options-init.php:639
+msgid "Exclusions"
+msgstr "Exclusiones"
+
+#: admin/options-init.php:554
+msgid "Fallback if not value found for product field selector."
+msgstr ""
+"Respaldo si no se encuentra un valor para el selector de campo de producto."
+
+#: admin/options-init.php:495
+msgid "Footer"
+msgstr "Pie de página"
+
+#: admin/options-init.php:131
+msgid "Free Price Text"
+msgstr "Texto de precio gratis"
+
+#: admin/options-init.php:88
+msgid "General"
+msgstr "General"
+
+#: admin/options-init.php:214 admin/options-init.php:327
+#: admin/options-init.php:453
+msgid "Go to custom URL"
+msgstr "Ir a URL personalizada"
+
+#: admin/options-init.php:326
+msgid "Go to product page"
+msgstr "Ir a la página del producto"
+
+#: admin/options-init.php:746
+msgid "Hard Remove Add to Cart"
+msgstr "Eliminar duro Agregar al carrito"
+
+#: admin/options-init.php:740
+msgid "Hard Remove Price"
+msgstr "Precio de eliminación dura"
+
+#. Author URI of the plugin
+msgid "https://welaunch.io"
+msgstr "https://welaunch.io"
+
+#. URI of the plugin
+msgid "https://welaunch.io/plugins/woocommerce-catalog-mode/"
+msgstr "https://welaunch.io/plugins/woocommerce-catalog-mode/"
+
+#: admin/options-init.php:427 admin/options-init.php:499
+msgid "In Single Product Summary"
+msgstr "En resumen de producto único"
+
+#: admin/options-init.php:546
+msgid "Inspect html code of your site if product data does not get overtaken."
+msgstr ""
+"Inspeccione el código html de su sitio si no se superan los datos del "
+"producto."
+
+#: admin/options-init.php:528
+msgid "Inspect html code of your site if SKU data does not get overtaken."
+msgstr ""
+"Inspeccione el código html de su sitio si no se superan los datos de SKU."
+
+#: admin/options-init.php:124
+msgid "Instead of \"Free\"."
+msgstr "En lugar de \"Gratis\"."
+
+#: admin/options-init.php:657 admin/options-init.php:675
+#: admin/options-init.php:695
+msgid "Instead of exclusion it will include."
+msgstr "En lugar de exclusión, incluirá."
+
+#: admin/options-init.php:262 admin/options-init.php:567
+msgid "Large"
+msgstr "Grande"
+
+#: admin/options-init.php:702
+msgid "Limitations"
+msgstr "Limitaciones"
+
+#: admin/options-init.php:83
+msgid "Need support? Please use the comment function on codecanyon."
+msgstr "¿Necesita ayuda? Utilice la función de comentario en codecanyon."
+
+#: admin/options-init.php:260 admin/options-init.php:565
+msgid "Normal"
+msgstr "Normal"
+
+#: admin/options-init.php:715
+msgid "Only Logged in"
+msgstr "Solo iniciado sesión"
+
+#: admin/options-init.php:714
+msgid "Only NOT logged in"
+msgstr "Solo NO ha iniciado sesión"
+
+#: admin/options-init.php:405
+msgid "Only Out of Stock"
+msgstr "Solo agotado"
+
+#: admin/options-init.php:406
+msgid "Only show the send enquiry button when product is out of stock."
+msgstr "Solo muestre el botón Enviar consulta cuando el producto esté agotado."
+
+#: admin/options-init.php:213 admin/options-init.php:452
+msgid "Open enquiry form"
+msgstr "Formulario de consulta abierto"
+
+#: admin/options-init.php:243 admin/options-init.php:512
+msgid "Please insert your contact form shortcode."
+msgstr "Por favor inserte el código corto del formulario de contacto."
+
+#: public/class-woocommerce-catalog-mode-public.php:977
+#: public/class-woocommerce-catalog-mode-public.php:1137
+msgid "Price"
+msgstr "Precio"
+
+#: admin/options-init.php:293
+msgid "Product Categories"
+msgstr "Categorías de Producto"
+
+#: admin/options-init.php:536
+msgid "Product Field Name"
+msgstr "Nombre del campo del producto"
+
+#: admin/options-init.php:545
+msgid "Product Field Selector"
+msgstr "Selector de campo de producto"
+
+#: admin/options-init.php:553
+msgid "Product Field Selector Fallback"
+msgstr "Alternancia del selector de campo de producto"
+
+#: admin/options-init.php:249
+msgid "Products Field Name"
+msgstr "Nombre de campo de productos"
+
+#: admin/options-init.php:116
+msgid "Redirect Cart / Checkout Page"
+msgstr "Redirigir carrito / página de pago"
+
+#: admin/options-init.php:117
+msgid "Redirects the cart and checkout page to your home page."
+msgstr "Redirige el carrito y la página de pago a su página de inicio."
+
+#: admin/options-init.php:102
+msgid "Remove add to cart button"
+msgstr "Quitar el botón Agregar al carrito"
+
+#: admin/options-init.php:168
+msgid "Remove Checkout from Cart"
+msgstr "Eliminar pago del carrito"
+
+#: admin/options-init.php:154
+msgid "Remove Coupons from Cart"
+msgstr "Eliminar cupones del carrito"
+
+#: admin/options-init.php:161
+msgid "Remove Cross Sells from Cart"
+msgstr "Eliminar ventas cruzadas del carrito"
+
+#: admin/options-init.php:109
+msgid "Remove price"
+msgstr "Quitar precio"
+
+#: admin/options-init.php:110
+msgid "Removes price on single product and category pages."
+msgstr "Elimina el precio en páginas de categorías y productos individuales."
+
+#: admin/options-init.php:103
+msgid "Removes the add to cart button on single product and category pages."
+msgstr ""
+"Elimina el botón Agregar al carrito en páginas de categorías y productos "
+"individuales."
+
+#: admin/options-init.php:384
+msgid "Replace the add to cart button on single product pages with your own."
+msgstr ""
+"Reemplace el botón Agregar al carrito en las páginas de un solo producto por "
+"el suyo."
+
+#: admin/options-init.php:656
+msgid "Revert Categories Exclusion"
+msgstr "Revertir la exclusión de categorías"
+
+#: admin/options-init.php:694
+msgid "Revert Exclusion"
+msgstr "Revertir exclusión"
+
+#: admin/options-init.php:674
+msgid "Revert Products Exclusion"
+msgstr "Revertir la exclusión de productos"
+
+#: admin/options-init.php:724
+msgid "Select user roles, where the plugin should NOT apply."
+msgstr ""
+"Seleccione roles de usuario, donde el complemento NO debería aplicarse."
+
+#: admin/options-init.php:204
+msgid "Send Enquiry"
+msgstr "Enviar consulta"
+
+#: admin/options-init.php:537
+msgid ""
+"Set the field name of your Product field here, so that our plugin can copy "
+"selected Product into the field automatically."
+msgstr ""
+"Establezca el nombre de campo de su campo Producto aquí, de modo que nuestro "
+"complemento pueda copiar el Producto seleccionado en el campo "
+"automáticamente."
+
+#: admin/options-init.php:250
+msgid ""
+"Set the field name of your Products field here, so that our plugin can copy "
+"selected Products into the field automatically."
+msgstr ""
+"Establezca aquí el nombre de campo de su campo Productos, para que nuestro "
+"complemento pueda copiar los Productos seleccionados en el campo "
+"automáticamente."
+
+#: admin/options-init.php:519
+msgid ""
+"Set the field name of your SKU field here, so that our plugin can copy "
+"selected SKU into the field automatically."
+msgstr ""
+"Establezca el nombre de campo de su campo SKU aquí, para que nuestro "
+"complemento pueda copiar el SKU seleccionado en el campo automáticamente."
+
+#: admin/options-init.php:630
+msgid "Show Attributes"
+msgstr "Mostrar atributos"
+
+#: admin/options-init.php:123
+msgid "Show custom Free Price Text"
+msgstr "Mostrar texto de precio gratuito personalizado"
+
+#: admin/options-init.php:616
+msgid "Show Description"
+msgstr "Mostrar descripcion"
+
+#: admin/options-init.php:602
+msgid "Show Image"
+msgstr "Mostrar imagen"
+
+#: admin/options-init.php:623
+msgid "Show Price"
+msgstr "Mostrar precio"
+
+#: admin/options-init.php:175
+msgid "Show price in Form"
+msgstr "Mostrar precio en formulario"
+
+#: admin/options-init.php:189
+msgid "Show Quantity in Form"
+msgstr "Mostrar cantidad en forma"
+
+#: admin/options-init.php:609
+msgid "Show SKU"
+msgstr "Mostrar SKU"
+
+#: admin/options-init.php:182
+msgid "Show SKU in Form"
+msgstr "Mostrar SKU en formulario"
+
+#: admin/options-init.php:383
+msgid "Single Product Pages"
+msgstr "Páginas de un solo producto"
+
+#: admin/options-init.php:258 admin/options-init.php:563
+msgid "Size of the Enquiry modal."
+msgstr "Tamaño del modal de Consulta."
+
+#: public/class-woocommerce-catalog-mode-public.php:973
+#: public/class-woocommerce-catalog-mode-public.php:1133
+msgid "SKU"
+msgstr "SKU"
+
+#: admin/options-init.php:518
+msgid "SKU Field Name"
+msgstr "Nombre de campo de SKU"
+
+#: admin/options-init.php:527
+msgid "SKU Field Selector"
+msgstr "Selector de campo SKU"
+
+#: admin/options-init.php:261 admin/options-init.php:566
+msgid "Small"
+msgstr "Pequeña"
+
+#: admin/options-init.php:422
+msgid "Specify the positon of the Button."
+msgstr "Especifique la posición del botón."
+
+#: admin/options-init.php:594
+msgid "Table"
+msgstr "Mesa"
+
+#: admin/options-init.php:316 admin/options-init.php:414
+msgid "Text inside the custom button."
+msgstr "Texto dentro del botón personalizado."
+
+#: admin/options-init.php:492
+msgid ""
+"The position of the enquiry form. This helps <a href=\"http://contactform7."
+"com/special-mail-tags/\" target=\"_blank\">special mail tags</a> to work "
+"correctly."
+msgstr ""
+"La posición del formulario de consulta. Esto ayuda a que <a href=\"http:"
+"//contactform7.com/special-mail-tags/\" target=\"_blank\">las etiquetas de "
+"correo especiales</a> funcionen correctamente."
+
+#: admin/options-init.php:279 admin/options-init.php:345
+#: admin/options-init.php:470
+msgid "The target attribute of the link."
+msgstr "El atributo de destino del enlace."
+
+#: admin/options-init.php:132
+msgid "The text, that should replace the free text."
+msgstr "El texto, que debería reemplazar el texto libre."
+
+#: admin/options-init.php:235 admin/options-init.php:484
+msgid "The title of the enquiry Modal"
+msgstr "El título de la consulta Modal"
+
+#: admin/options-init.php:271 admin/options-init.php:337
+#: admin/options-init.php:462
+msgid "The URL where the user will be sent to when he clicked the button."
+msgstr "La URL a la que se enviará al usuario cuando haga clic en el botón."
+
+#: admin/options-init.php:747
+msgid ""
+"This will add CSS to hide the button using !important. Please only enable "
+"when your theme still shows the add to cart button."
+msgstr ""
+"Esto agregará CSS para ocultar el botón usando! Important. Habilítelo solo "
+"cuando su tema aún muestre el botón Agregar al carrito."
+
+#: admin/options-init.php:741
+msgid ""
+"This will add CSS to hide the price !important. Please only enable when your "
+"theme still shows prices."
+msgstr ""
+"¡Esto agregará CSS para ocultar el precio! Habilítelo solo cuando su tema "
+"aún muestre precios."
+
+#: admin/options-init.php:308
+msgid ""
+"This will prevent the loop button from disappear if the product is on the "
+"exclusion list."
+msgstr ""
+"Esto evitará que el botón de bucle desaparezca si el producto está en la "
+"lista de exclusión."
+
+#: admin/options-init.php:398
+msgid ""
+"This will prevent the single product button from disappear if the product is "
+"on the exclusion list."
+msgstr ""
+"Esto evitará que el botón de un solo producto desaparezca si el producto "
+"está en la lista de exclusión."
+
+#. Description of the plugin
+msgid ""
+"Transform your WooCommerce Shop into a product catalog. Remove prices, hide "
+"the add to cart button and more!"
+msgstr ""
+"Transforme su tienda WooCommerce en un catálogo de productos. ¡Elimine "
+"precios, oculte el botón Agregar al carrito y más!"
+
+#: admin/options-init.php:577
+msgid "Variation Products"
+msgstr "Productos de variación"
+
+#: public/class-woocommerce-catalog-mode-public.php:964
+#: public/class-woocommerce-catalog-mode-public.php:1124
+msgid "Variations"
+msgstr "Variaciones"
+
+#. Author of the plugin
+msgid "weLaunch"
+msgstr "weLaunch"
+
+#: admin/options-init.php:211 admin/options-init.php:324
+#: admin/options-init.php:450
+msgid "What happens when the User clicks the button."
+msgstr "¿Qué sucede cuando el usuario hace clic en el botón?"
+
+#: admin/options-init.php:651
+msgid "Which product categories should be excluded by the catalog mode."
+msgstr "Qué categorías de productos deben excluirse del modo de catálogo."
+
+#: admin/options-init.php:669
+msgid "Which products should be excluded by the catalog mode."
+msgstr "Qué productos deben ser excluidos por el modo de catálogo."
+
+#: admin/options-init.php:711
+msgid "Which user group should be affected by the catalog mode."
+msgstr "Qué grupo de usuarios debería verse afectado por el modo de catálogo."
+
+#: admin/options-init.php:640
+msgid ""
+"With the below settings you can exclude products / categories so that the "
+"price and add to cart will be shown."
+msgstr ""
+"Con la siguiente configuración, puede excluir productos / categorías para "
+"que se muestre el precio y agregar al carrito."
+
+#. Name of the plugin
+msgid "WooCommerce Catalog Mode"
+msgstr "Modo de catálogo de WooCommerce"
+
+#: woocommerce-catalog-mode.php:88
+msgid ""
+"WooCommerce Catalog Mode requires the WooCommerce & weLaunch Framework "
+"plugin. Please install or activate them before: https://www.welaunch."
+"io/updates/welaunch-framework.zip"
+msgstr ""
+"El modo de catálogo de WooCommerce requiere el complemento WooCommerce & "
+"weLaunch Framework. Instálelos o actívelos antes: https://www.welaunch."
+"io/updates/welaunch-framework.zip"
+
+#: admin/options-init.php:226
+msgid "woocommerce_after_cart"
+msgstr "woocommerce_after_cart"
+
+#: admin/options-init.php:225
+msgid "woocommerce_cart_actions"
+msgstr "woocommerce_cart_actions"

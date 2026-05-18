@@ -1,0 +1,75 @@
+/**
+ * Public CSS
+ */
+
+.variations_form {
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+
+.variations select {
+  display: block;
+}
+
+.woocommerce-catalog-mode-variations {
+  margin-bottom: 20px;
+}
+
+.woocommerce-catalog-mode-variations td, .woocommerce-catalog-mode-variations th {
+  padding: 10px;
+  border: 1px solid #eaeaea;
+}
+
+.woocommerce-catalog-mode-variations th {
+  font-weight: bold;
+}
+
+.woocommerce-catalog-mode-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    background: rgba(0,0,0,0.7);
+    display: block;
+    width: 100%;
+    height: 100%;
+    z-index: 9999999;
+}
+
+.woocommerce-catalog-mode-popup-container {
+     margin: 0 auto;
+    width: 100%;
+    max-width: 600px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: fixed;
+    z-index: 99999999;
+    height: 90%;
+    overflow: auto;
+}
+
+.woocommerce-catalog-mode-popup {
+    padding: 20px;
+    background: #fff;
+    border-radius: 10px;
+}
+
+.variations_form:nth-of-type(2) {
+  display: none !important;
+}
+
+.product-buttons .add_to_cart_button:nth-of-type(2) {
+  display: none !important;
+}
+
+.woocommerce-catalog-mode-popup-close {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    height: 40px;
+    width: 40px;
+    line-height: 40px;
+    background: #f7f7f7;
+    text-align: center;
+    border-radius: 60%;
+}
