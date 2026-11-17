@@ -1,5 +1,11 @@
 # Changelog
 ======
+1.8.12
+======
+- NEW:	Reviewed and completed translations: German, Spanish, French, Italian, Dutch
+- FIX:	Text domains and English texts
+
+======
 1.8.11
 ======
 - NEW:	Hook into get_price_html to remove price

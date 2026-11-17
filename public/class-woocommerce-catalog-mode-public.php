@@ -1267,7 +1267,7 @@ class WooCommerce_Catalog_Mode_Public extends WooCommerce_Catalog_Mode {
 			                        $attr_name = $attr[0][$attr_name]['name'];
 			                    }
 			                    if(empty($attr_value)) {
-			                    	echo sprintf( __('Any %s', 'woocommerce-pdf-catalog'), $attr_name);
+			                    	echo sprintf( __('Any %s', 'woocommerce-catalog-mode'), $attr_name);
 		                    	} else {
 		                    		echo $attr_value;
 	                    		}
@@ -1430,7 +1430,7 @@ class WooCommerce_Catalog_Mode_Public extends WooCommerce_Catalog_Mode {
 			                        $attr_name = $attr[0][$attr_name]['name'];
 			                    }
 			                    if(empty($attr_value)) {
-			                    	echo sprintf( __('Any %s', 'woocommerce-pdf-catalog'), $attr_name);
+			                    	echo sprintf( __('Any %s', 'woocommerce-catalog-mode'), $attr_name);
 		                    	} else {
 		                    		echo $attr_value;
 	                    		}

@@ -1,715 +1,573 @@
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: WooCommerce Catalog Mode\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-05-18 13:21+0000\n"
-"PO-Revision-Date: 2021-05-18 13:23+0000\n"
-"Last-Translator: WeLaunch\n"
-"Language-Team: Dutch\n"
+"Project-Id-Version: WooCommerce Catalog Mode 1.8.11\n"
+"Report-Msgid-Bugs-To: https://www.welaunch.io/en/new-ticket/\n"
+"POT-Creation-Date: 2026-11-05 21:33+0100\n"
+"PO-Revision-Date: 2026-11-05 21:33+0100\n"
+"Last-Translator: weLaunch <support@welaunch.io>\n"
+"Language-Team: weLaunch\n"
 "Language: nl_NL\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Loco https://localise.biz/\n"
-"X-Loco-Version: 2.5.2; wp-5.7.2"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Domain: woocommerce-catalog-mode\n"
 
-#: admin/options-init.php:89
-msgid "\">register your License here</a>."
-msgstr "\"> registreer hier uw licentie </a>."
-
-#: admin/options-init.php:282 admin/options-init.php:348
-#: admin/options-init.php:473
-msgid "_blank (new Window)"
-msgstr "_blank (nieuw venster)"
-
-#: admin/options-init.php:283 admin/options-init.php:349
-#: admin/options-init.php:474
-msgid "_parent (parent Window)"
-msgstr "_parent (bovenliggend venster)"
-
-#: admin/options-init.php:281 admin/options-init.php:347
-#: admin/options-init.php:472
-msgid "_self (same Window)"
-msgstr "_self (zelfde venster)"
-
-#: admin/options-init.php:284 admin/options-init.php:350
-#: admin/options-init.php:475
-msgid "_top (full body of the Window)"
-msgstr "_top (volledige body van het raam)"
-
-#: admin/options-init.php:762
-msgid "Add some stylesheet if you want."
-msgstr "Voeg desgewenst een stylesheet toe."
-
-#: admin/options-init.php:196
-msgid "Add to Cart Button Text"
-msgstr "Toevoegen aan winkelwagentje Knoptekst"
-
-#: admin/options-init.php:197
-msgid "Add to Enquiry Basket"
-msgstr "Toevoegen aan winkelmandje"
-
-#: admin/options-init.php:294
-msgid "Adds a custom enquiry / go to button in product category pages."
-msgstr ""
-"Voegt een aangepaste vraag / ga naar-knop toe aan productcategoriepagina's."
-
-#: admin/options-init.php:732
-msgid "Advanced settings"
-msgstr "Geavanceerde instellingen"
-
-#: admin/options-init.php:432 admin/options-init.php:504
-msgid "After Main Product"
-msgstr "Na Hoofdproduct"
-
-#: admin/options-init.php:429 admin/options-init.php:501
-msgid "After Meta Information"
-msgstr "Na Meta-informatie"
-
-#: admin/options-init.php:431 admin/options-init.php:503
-msgid "After Single Product"
-msgstr "Na één product"
-
-#: admin/options-init.php:430 admin/options-init.php:502
-msgid "After Single Product Summary"
-msgstr "Na Samenvatting van één product"
-
-#: admin/options-init.php:713
-msgid "All"
-msgstr "Alle"
-
-#: admin/options-init.php:397
-msgid "Always show button"
-msgstr "Laat altijd knop zien"
-
-#: admin/options-init.php:307
-msgid "Always show loop button"
-msgstr "Laat altijd de loop-knop zien"
-
-#: admin/options-init.php:703
-msgid "Apply Catalog Mode for specific users / roles."
-msgstr "Pas de catalogusmodus toe voor specifieke gebruikers / rollen."
-
-#: admin/options-init.php:710
-msgid "Apply for users"
-msgstr "Toepassen voor gebruikers"
-
-#: admin/options-init.php:223
-msgid "At what hook position should the button appear."
-msgstr "Op welke haakpositie moet de knop verschijnen."
-
-#: admin/options-init.php:133
-msgid "Available in store"
-msgstr "Verkrijgbaar in de winkel"
-
-#: admin/options-init.php:496
-msgid "Before Main Content"
-msgstr "Voor hoofdinhoud"
-
-#: admin/options-init.php:428 admin/options-init.php:500
-msgid "Before Meta Information"
-msgstr "Vóór meta-informatie"
-
-#: admin/options-init.php:425 admin/options-init.php:497
-msgid "Before Single Product"
-msgstr "Vóór één product"
-
-#: admin/options-init.php:426 admin/options-init.php:498
-msgid "Before Single Product Summary"
-msgstr "Vóór Samenvatting van één product"
-
-#: admin/options-init.php:210 admin/options-init.php:323
-#: admin/options-init.php:449
-msgid "Button Action"
-msgstr "Knopactie"
-
-#: admin/options-init.php:222
-msgid "Button Action Hook"
-msgstr "Knop Actiehaak"
-
-#: admin/options-init.php:270 admin/options-init.php:336
-#: admin/options-init.php:461
-msgid "Button custom URL"
-msgstr "Knop aangepaste URL"
-
-#: admin/options-init.php:278 admin/options-init.php:344
-msgid "Button custom URL target"
-msgstr "Knop aangepast URL-doel"
-
-#: admin/options-init.php:421
-msgid "Button Position"
-msgstr "Knop positie"
-
-#: admin/options-init.php:439
-msgid "Button Priority"
-msgstr "Knopprioriteit"
-
-#: admin/options-init.php:315 admin/options-init.php:413
-msgid "Button Text"
-msgstr "Knop tekst"
-
-#: admin/options-init.php:81
-msgid "Catalog Mode"
-msgstr "Catalogusmodus"
-
-#: admin/options-init.php:578
-msgid "Configure if you want to show variations."
-msgstr "Configureer als u variaties wilt weergeven."
-
-#: admin/options-init.php:686
-msgid "Countries to exclude"
-msgstr "Landen die moeten worden uitgesloten"
-
-#: admin/options-init.php:469
-msgid "Custom Button URL target"
-msgstr "URL-doel van aangepaste knop"
-
-#: admin/options-init.php:761
-msgid "Custom CSS"
-msgstr "Aangepaste CSS"
-
-#: admin/options-init.php:733
-msgid "Custom stylesheet / javascript."
-msgstr "Aangepaste stylesheet / javascript."
-
-#: public/class-woocommerce-catalog-mode-public.php:981
-#: public/class-woocommerce-catalog-mode-public.php:1141
-msgid "Description"
-msgstr "Omschrijving"
-
-#: admin/options-init.php:591
-msgid "Display as"
-msgstr "Weergeven als"
-
-#: admin/options-init.php:593
-msgid "Dropdown"
-msgstr "Laten vallen"
-
-#: admin/options-init.php:96 admin/options-init.php:148
-#: admin/options-init.php:301 admin/options-init.php:391
-#: admin/options-init.php:585
 msgid "Enable"
 msgstr "Inschakelen"
 
-#: admin/options-init.php:97
-msgid "Enable catalog mode to use the options below"
-msgstr "Schakel de catalogusmodus in om de onderstaande opties te gebruiken"
+msgid "Description"
+msgstr "Beschrijving"
 
-#: admin/options-init.php:149
-msgid ""
-"Enable the enquiry cart. Make sure you have not enabled to remove the add to "
-"cart button in general settings."
-msgstr ""
-"Schakel het onderzoekwagentje in. Zorg ervoor dat u niet heeft ingeschakeld "
-"om de knop Toevoegen aan winkelwagentje te verwijderen in de algemene "
-"instellingen."
+msgid "All"
+msgstr "Alle"
 
-#: admin/options-init.php:631
-msgid "Enable to show the variation attributes."
-msgstr "Schakel in om de variatieattributen weer te geven."
+msgid "Need support? Please use the comment function on codecanyon."
+msgstr "Hulp nodig? Gebruik de commentaarfunctie op CodeCanyon."
 
-#: admin/options-init.php:617
-msgid "Enable to show the variation description."
-msgstr "Schakel in om de variatiebeschrijving weer te geven."
-
-#: admin/options-init.php:603
-msgid "Enable to show the variation Image."
-msgstr "Schakel in om de afbeelding van de variatie weer te geven."
-
-#: admin/options-init.php:624
-msgid "Enable to show the variation price."
-msgstr "Schakel in om de variatieprijs weer te geven."
-
-#: admin/options-init.php:610
-msgid "Enable to show the variation SKU."
-msgstr "Schakel in om de variant-SKU weer te geven."
-
-#: admin/options-init.php:586
-msgid "Enable to show variations."
-msgstr "Schakel in om variaties weer te geven."
-
-#: admin/options-init.php:302
-msgid "Enables the custom button on loop pages."
-msgstr "Schakelt de aangepaste knop in op loop-pagina's."
-
-#: admin/options-init.php:392
-msgid "Enables the single product custom button."
-msgstr "Schakelt de aangepaste knop voor één product in."
-
-#: admin/options-init.php:203
-msgid "Enquiry Button Text"
-msgstr "Tekst van knop voor onderzoek"
-
-#: admin/options-init.php:140
-msgid "Enquiry Cart"
-msgstr "Onderzoek winkelwagen"
-
-#: admin/options-init.php:242 admin/options-init.php:511
-msgid "Enquiry contact form"
-msgstr "Aanvraag contactformulier"
-
-#: admin/options-init.php:328
-msgid "Enquiry Form"
-msgstr "Aanvraagformulier"
-
-#: admin/options-init.php:257 admin/options-init.php:562
-msgid "Enquiry Modal size"
-msgstr "Aanvraag Modale grootte"
-
-#: admin/options-init.php:491
-msgid "Enquiry Position"
-msgstr "Onderzoekspositie"
-
-#: admin/options-init.php:234 admin/options-init.php:483
-msgid "Enquiry Title"
-msgstr "Titel van het onderzoek"
-
-#: admin/options-init.php:680
-msgid "Exclude Countries"
-msgstr "Landen uitsluiten"
-
-#: admin/options-init.php:650
-msgid "Exclude Product Categories"
-msgstr "Sluit productcategorieën uit"
-
-#: admin/options-init.php:668
-msgid "Exclude Products"
-msgstr "Sluit producten uit"
-
-#: admin/options-init.php:681
-msgid "Exclude some countries from this plugin."
-msgstr "Sluit enkele landen uit van deze plug-in."
-
-#: admin/options-init.php:723
-msgid "Exclude User Roles"
-msgstr "Sluit gebruikersrollen uit"
-
-#: admin/options-init.php:639
-msgid "Exclusions"
-msgstr "Uitsluitingen"
-
-#: admin/options-init.php:554
-msgid "Fallback if not value found for product field selector."
-msgstr "Terugval indien geen waarde gevonden voor productveldselector."
-
-#: admin/options-init.php:495
-msgid "Footer"
-msgstr "Voettekst"
-
-#: admin/options-init.php:131
-msgid "Free Price Text"
-msgstr "Tekst vrije prijs"
-
-#: admin/options-init.php:88
 msgid "General"
 msgstr "Algemeen"
 
-#: admin/options-init.php:214 admin/options-init.php:327
-#: admin/options-init.php:453
-msgid "Go to custom URL"
-msgstr "Ga naar aangepaste URL"
+msgid "Before Main Content"
+msgstr "Voor hoofdinhoud"
 
-#: admin/options-init.php:326
-msgid "Go to product page"
-msgstr "Ga naar de productpagina"
+msgid "Advanced settings"
+msgstr "Geavanceerde instellingen"
 
-#: admin/options-init.php:746
-msgid "Hard Remove Add to Cart"
-msgstr "Moeilijk verwijderen Toevoegen aan winkelwagen"
+msgid "Custom stylesheet / javascript."
+msgstr "Aangepaste stylesheet / JavaScript."
 
-#: admin/options-init.php:740
-msgid "Hard Remove Price"
-msgstr "Prijs verwijderen"
+msgid "Performance: Scripts & Stylings"
+msgstr "Prestaties: scripts en stijlen"
 
-#. Author URI of the plugin
-msgid "https://welaunch.io"
-msgstr "https://welaunch.io"
+msgid "Custom CSS"
+msgstr "Aangepaste CSS"
 
-#. URI of the plugin
-msgid "https://welaunch.io/plugins/woocommerce-catalog-mode/"
-msgstr "https://welaunch.io/plugins/woocommerce-catalog-mode/"
+msgid "Add some stylesheet if you want."
+msgstr "Voeg desgewenst een stylesheet toe."
 
-#: admin/options-init.php:427 admin/options-init.php:499
+msgid "Before Single Product"
+msgstr "Voor het enkele product"
+
+msgid "Before Single Product Summary"
+msgstr "Voor de samenvatting van het enkele product"
+
 msgid "In Single Product Summary"
-msgstr "In een enkel productoverzicht"
+msgstr "In de samenvatting van het enkele product"
 
-#: admin/options-init.php:546
-msgid "Inspect html code of your site if product data does not get overtaken."
-msgstr ""
-"Inspecteer de html-code van uw site als productgegevens niet worden "
-"ingehaald."
+msgid "Before Meta Information"
+msgstr "Voor de meta-informatie"
 
-#: admin/options-init.php:528
-msgid "Inspect html code of your site if SKU data does not get overtaken."
-msgstr ""
-"Inspecteer de html-code van uw site als SKU-gegevens niet worden ingehaald."
+msgid "After Meta Information"
+msgstr "Na de meta-informatie"
 
-#: admin/options-init.php:124
-msgid "Instead of \"Free\"."
-msgstr "In plaats van \"gratis\"."
+msgid "After Single Product Summary"
+msgstr "Na de samenvatting van het enkele product"
 
-#: admin/options-init.php:657 admin/options-init.php:675
-#: admin/options-init.php:695
-msgid "Instead of exclusion it will include."
-msgstr "In plaats van uitsluiting omvat het."
+msgid "After Single Product"
+msgstr "Na het enkele product"
 
-#: admin/options-init.php:262 admin/options-init.php:567
-msgid "Large"
-msgstr "Groot"
+msgid "After Main Product"
+msgstr "Na het hoofdproduct"
 
-#: admin/options-init.php:702
-msgid "Limitations"
-msgstr "Beperkingen"
-
-#: admin/options-init.php:83
-msgid "Need support? Please use the comment function on codecanyon."
-msgstr "Ondersteuning nodig? Gebruik de commentaarfunctie op codecanyon."
-
-#: admin/options-init.php:260 admin/options-init.php:565
-msgid "Normal"
-msgstr "Normaal"
-
-#: admin/options-init.php:715
-msgid "Only Logged in"
-msgstr "Alleen aangemeld"
-
-#: admin/options-init.php:714
-msgid "Only NOT logged in"
-msgstr "Alleen NIET ingelogd"
-
-#: admin/options-init.php:405
-msgid "Only Out of Stock"
-msgstr "Alleen niet op voorraad"
-
-#: admin/options-init.php:406
-msgid "Only show the send enquiry button when product is out of stock."
-msgstr ""
-"Toon de knop Aanvraag verzenden alleen als het product niet op voorraad is."
-
-#: admin/options-init.php:213 admin/options-init.php:452
-msgid "Open enquiry form"
-msgstr "Open aanvraagformulier"
-
-#: admin/options-init.php:243 admin/options-init.php:512
-msgid "Please insert your contact form shortcode."
-msgstr "Voer de shortcode van uw contactformulier in."
-
-#: public/class-woocommerce-catalog-mode-public.php:977
-#: public/class-woocommerce-catalog-mode-public.php:1137
-msgid "Price"
-msgstr "Prijs"
-
-#: admin/options-init.php:293
-msgid "Product Categories"
-msgstr "Productcategorieën"
-
-#: admin/options-init.php:536
-msgid "Product Field Name"
-msgstr "Productveldnaam"
-
-#: admin/options-init.php:545
-msgid "Product Field Selector"
-msgstr "Productveldkiezer"
-
-#: admin/options-init.php:553
-msgid "Product Field Selector Fallback"
-msgstr "Terugval op productveldkiezer"
-
-#: admin/options-init.php:249
-msgid "Products Field Name"
-msgstr "Productveldnaam"
-
-#: admin/options-init.php:116
-msgid "Redirect Cart / Checkout Page"
-msgstr "Redirect winkelwagen / afrekenpagina"
-
-#: admin/options-init.php:117
-msgid "Redirects the cart and checkout page to your home page."
-msgstr "Leidt de winkelwagen en afrekenpagina om naar uw startpagina."
-
-#: admin/options-init.php:102
-msgid "Remove add to cart button"
-msgstr "Verwijder de knop Toevoegen aan winkelwagentje"
-
-#: admin/options-init.php:168
-msgid "Remove Checkout from Cart"
-msgstr "Afrekenen uit winkelwagen verwijderen"
-
-#: admin/options-init.php:154
-msgid "Remove Coupons from Cart"
-msgstr "Verwijder coupons uit winkelwagen"
-
-#: admin/options-init.php:161
-msgid "Remove Cross Sells from Cart"
-msgstr "Verwijder Cross Sells uit de winkelwagen"
-
-#: admin/options-init.php:109
-msgid "Remove price"
-msgstr "Prijs verwijderen"
-
-#: admin/options-init.php:110
-msgid "Removes price on single product and category pages."
-msgstr "Verwijdert de prijs van afzonderlijke product- en categoriepagina's."
-
-#: admin/options-init.php:103
-msgid "Removes the add to cart button on single product and category pages."
-msgstr ""
-"Verwijdert de knop Toevoegen aan winkelwagentje op pagina's met één product "
-"en categorie."
-
-#: admin/options-init.php:384
-msgid "Replace the add to cart button on single product pages with your own."
-msgstr ""
-"Vervang de knop voor toevoegen aan winkelwagentje op afzonderlijke "
-"productpagina's door die van jezelf."
-
-#: admin/options-init.php:656
-msgid "Revert Categories Exclusion"
-msgstr "Uitsluiting van categorieën terugdraaien"
-
-#: admin/options-init.php:694
-msgid "Revert Exclusion"
-msgstr "Uitsluiting ongedaan maken"
-
-#: admin/options-init.php:674
-msgid "Revert Products Exclusion"
-msgstr "Uitsluiting van producten ongedaan maken"
-
-#: admin/options-init.php:724
-msgid "Select user roles, where the plugin should NOT apply."
-msgstr ""
-"Selecteer gebruikersrollen, waar de plug-in NIET van toepassing zou moeten "
-"zijn."
-
-#: admin/options-init.php:204
-msgid "Send Enquiry"
-msgstr "Stuur onderzoek"
-
-#: admin/options-init.php:537
-msgid ""
-"Set the field name of your Product field here, so that our plugin can copy "
-"selected Product into the field automatically."
-msgstr ""
-"Stel hier de veldnaam van uw productveld in, zodat onze plug-in het "
-"geselecteerde product automatisch naar het veld kan kopiëren."
-
-#: admin/options-init.php:250
-msgid ""
-"Set the field name of your Products field here, so that our plugin can copy "
-"selected Products into the field automatically."
-msgstr ""
-"Stel hier de veldnaam van uw productenveld in, zodat onze plug-in "
-"geselecteerde producten automatisch naar het veld kan kopiëren."
-
-#: admin/options-init.php:519
-msgid ""
-"Set the field name of your SKU field here, so that our plugin can copy "
-"selected SKU into the field automatically."
-msgstr ""
-"Stel hier de veldnaam van uw SKU-veld in, zodat onze plug-in de "
-"geselecteerde SKU automatisch naar het veld kan kopiëren."
-
-#: admin/options-init.php:630
-msgid "Show Attributes"
-msgstr "Kenmerken weergeven"
-
-#: admin/options-init.php:123
-msgid "Show custom Free Price Text"
-msgstr "Toon aangepaste vrije prijstekst"
-
-#: admin/options-init.php:616
-msgid "Show Description"
-msgstr "Laat beschrijving zien"
-
-#: admin/options-init.php:602
-msgid "Show Image"
-msgstr "Toon afbeelding"
-
-#: admin/options-init.php:623
-msgid "Show Price"
-msgstr "Toon prijs"
-
-#: admin/options-init.php:175
-msgid "Show price in Form"
-msgstr "Toon prijs in formulier"
-
-#: admin/options-init.php:189
-msgid "Show Quantity in Form"
-msgstr "Toon hoeveelheid in formulier"
-
-#: admin/options-init.php:609
-msgid "Show SKU"
-msgstr "Toon SKU"
-
-#: admin/options-init.php:182
-msgid "Show SKU in Form"
-msgstr "Toon SKU in formulier"
-
-#: admin/options-init.php:383
-msgid "Single Product Pages"
-msgstr "Enkele productpagina's"
-
-#: admin/options-init.php:258 admin/options-init.php:563
-msgid "Size of the Enquiry modal."
-msgstr "Grootte van het onderzoeksmodel."
-
-#: public/class-woocommerce-catalog-mode-public.php:973
-#: public/class-woocommerce-catalog-mode-public.php:1133
 msgid "SKU"
 msgstr "SKU"
 
-#: admin/options-init.php:518
-msgid "SKU Field Name"
-msgstr "SKU-veldnaam"
+msgid "Price"
+msgstr "Prijs"
 
-#: admin/options-init.php:527
-msgid "SKU Field Selector"
-msgstr "SKU-veldkiezer"
-
-#: admin/options-init.php:261 admin/options-init.php:566
-msgid "Small"
-msgstr "Klein"
-
-#: admin/options-init.php:422
-msgid "Specify the positon of the Button."
-msgstr "Specificeer de positie van de knop."
-
-#: admin/options-init.php:594
-msgid "Table"
-msgstr "Tafel"
-
-#: admin/options-init.php:316 admin/options-init.php:414
-msgid "Text inside the custom button."
-msgstr "Tekst in de aangepaste knop."
-
-#: admin/options-init.php:492
-msgid ""
-"The position of the enquiry form. This helps <a href=\"http://contactform7."
-"com/special-mail-tags/\" target=\"_blank\">special mail tags</a> to work "
-"correctly."
-msgstr ""
-"De positie van het aanvraagformulier. Dit helpt <a href=\"http:"
-"//contactform7.com/special-mail-tags/\" target=\"_blank\">speciale e-"
-"mailtags</a> om correct te werken."
-
-#: admin/options-init.php:279 admin/options-init.php:345
-#: admin/options-init.php:470
-msgid "The target attribute of the link."
-msgstr "Het doelkenmerk van de link."
-
-#: admin/options-init.php:132
-msgid "The text, that should replace the free text."
-msgstr "De tekst, die de vrije tekst moet vervangen."
-
-#: admin/options-init.php:235 admin/options-init.php:484
-msgid "The title of the enquiry Modal"
-msgstr "De titel van het onderzoek Modal"
-
-#: admin/options-init.php:271 admin/options-init.php:337
-#: admin/options-init.php:462
-msgid "The URL where the user will be sent to when he clicked the button."
-msgstr ""
-"De URL waar de gebruiker naartoe wordt gestuurd wanneer hij op de knop klikt."
-
-#: admin/options-init.php:747
-msgid ""
-"This will add CSS to hide the button using !important. Please only enable "
-"when your theme still shows the add to cart button."
-msgstr ""
-"Hiermee wordt CSS toegevoegd om de knop te verbergen met! Important. Schakel "
-"dit alleen in als uw thema nog steeds de knop Toevoegen aan winkelwagentje "
-"toont."
-
-#: admin/options-init.php:741
-msgid ""
-"This will add CSS to hide the price !important. Please only enable when your "
-"theme still shows prices."
-msgstr ""
-"Dit zal CSS toevoegen om de prijs te verbergen! Belangrijk. Schakel dit "
-"alleen in als uw thema nog steeds prijzen laat zien."
-
-#: admin/options-init.php:308
-msgid ""
-"This will prevent the loop button from disappear if the product is on the "
-"exclusion list."
-msgstr ""
-"Hiermee wordt voorkomen dat de lusknop verdwijnt als het product op de "
-"uitsluitingslijst staat."
-
-#: admin/options-init.php:398
-msgid ""
-"This will prevent the single product button from disappear if the product is "
-"on the exclusion list."
-msgstr ""
-"Hiermee wordt voorkomen dat de enkele productknop verdwijnt als het product "
-"op de uitsluitingslijst staat."
-
-#. Description of the plugin
-msgid ""
-"Transform your WooCommerce Shop into a product catalog. Remove prices, hide "
-"the add to cart button and more!"
-msgstr ""
-"Verander uw WooCommerce Shop in een productcatalogus. Verwijder prijzen, "
-"verberg de knop Toevoegen aan winkelwagentje en meer!"
-
-#: admin/options-init.php:577
-msgid "Variation Products"
-msgstr "Variatieproducten"
-
-#: public/class-woocommerce-catalog-mode-public.php:964
-#: public/class-woocommerce-catalog-mode-public.php:1124
 msgid "Variations"
 msgstr "Variaties"
 
-#. Author of the plugin
-msgid "weLaunch"
-msgstr "we lanceren"
+msgid "Exclusions"
+msgstr "Uitsluitingen"
 
-#: admin/options-init.php:211 admin/options-init.php:324
-#: admin/options-init.php:450
-msgid "What happens when the User clicks the button."
-msgstr "Wat gebeurt er als de gebruiker op de knop klikt?"
+msgid "With the below settings you can exclude products / categories so that the price and add to cart will be shown."
+msgstr "Met de instellingen hieronder kun je producten/categorieën uitsluiten, zodat de prijs en de knop 'In winkelwagen' worden getoond."
 
-#: admin/options-init.php:651
-msgid "Which product categories should be excluded by the catalog mode."
-msgstr ""
-"Welke productcategorieën moeten worden uitgesloten door de catalogusmodus."
+msgid "Exclude Product Categories"
+msgstr "Productcategorieën uitsluiten"
 
-#: admin/options-init.php:669
-msgid "Which products should be excluded by the catalog mode."
-msgstr "Welke producten moeten worden uitgesloten door de catalogusmodus."
+msgid "Revert Categories Exclusion"
+msgstr "Uitsluiting van categorieën omkeren"
 
-#: admin/options-init.php:711
-msgid "Which user group should be affected by the catalog mode."
-msgstr "Welke gebruikersgroep moet worden beïnvloed door de catalogusmodus."
+msgid "Instead of exclusion it will include."
+msgstr "In plaats van uit te sluiten, wordt het opgenomen."
 
-#: admin/options-init.php:640
-msgid ""
-"With the below settings you can exclude products / categories so that the "
-"price and add to cart will be shown."
-msgstr ""
-"Met onderstaande instellingen kun je producten / categorieën uitsluiten "
-"zodat de prijs en het toevoegen aan winkelwagen getoond worden."
+msgid "Button Text"
+msgstr "Knoptekst"
 
-#. Name of the plugin
+msgid "Footer"
+msgstr "Voettekst"
+
+msgid "WooCommerce Catalog Mode requires the WooCommerce & weLaunch Framework plugin. Please install or activate them before: https://www.welaunch.io/updates/welaunch-framework.zip"
+msgstr "WooCommerce Catalog Mode vereist de plugins WooCommerce en weLaunch Framework. Installeer of activeer ze eerst: https://www.welaunch.io/updates/welaunch-framework.zip"
+
 msgid "WooCommerce Catalog Mode"
-msgstr "WooCommerce-catalogusmodus"
+msgstr "WooCommerce Catalog Mode"
 
-#: woocommerce-catalog-mode.php:88
-msgid ""
-"WooCommerce Catalog Mode requires the WooCommerce & weLaunch Framework "
-"plugin. Please install or activate them before: https://www.welaunch."
-"io/updates/welaunch-framework.zip"
-msgstr ""
-"WooCommerce Catalog Mode vereist de WooCommerce & weLaunch Framework-plug-in."
-" Installeer of activeer ze vóór: https://www.welaunch.io/updates/welaunch-"
-"framework.zip"
+msgid "Catalog Mode"
+msgstr "Catalogusmodus"
 
-#: admin/options-init.php:226
-msgid "woocommerce_after_cart"
-msgstr "woocommerce_after_cart"
+msgid "Enable catalog mode to use the options below"
+msgstr "Schakel de catalogusmodus in om de opties hieronder te gebruiken"
 
-#: admin/options-init.php:225
+msgid "Remove add to cart button"
+msgstr "Knop 'In winkelwagen' verwijderen"
+
+msgid "Removes the add to cart button on single product and category pages."
+msgstr "Verwijdert de knop 'In winkelwagen' op product- en categoriepagina's."
+
+msgid "Remove price"
+msgstr "Prijs verwijderen"
+
+msgid "Removes price on single product and category pages."
+msgstr "Verwijdert de prijs op product- en categoriepagina's."
+
+msgid "Redirect Cart / Checkout Page"
+msgstr "Winkelwagen- / afrekenpagina doorsturen"
+
+msgid "Redirects the cart and checkout page to your home page."
+msgstr "Stuurt de winkelwagen- en afrekenpagina door naar je startpagina."
+
+msgid "Rename price"
+msgstr "Prijs hernoemen"
+
+msgid "Renames price on single product and category pages."
+msgstr "Hernoemt de prijs op product- en categoriepagina's."
+
+msgid "Price Text"
+msgstr "Prijstekst"
+
+msgid "The text, that should replace the price text."
+msgstr "De tekst die de prijs moet vervangen."
+
+msgid "Available on Request"
+msgstr "Op aanvraag beschikbaar"
+
+msgid "Show custom Free Price Text"
+msgstr "Aangepaste tekst voor gratis prijs tonen"
+
+msgid "Instead of \"Free\"."
+msgstr "In plaats van 'Gratis'."
+
+msgid "Free Price Text"
+msgstr "Tekst voor gratis prijs"
+
+msgid "The text, that should replace the free text."
+msgstr "De tekst die de tekst 'Gratis' moet vervangen."
+
+msgid "Available in store"
+msgstr "Verkrijgbaar in de winkel"
+
+msgid "Extra Product Options Support"
+msgstr "Ondersteuning voor Extra Product Options"
+
+msgid "This will add all fields added by the extra product options plugin to the single enquiry form."
+msgstr "Voegt alle velden van de plugin Extra Product Options toe aan het aanvraagformulier per product."
+
+msgid "Rank Math support"
+msgstr "Ondersteuning voor Rank Math"
+
+msgid "Hide Schema pricing data."
+msgstr "Schema-prijsgegevens verbergen."
+
+msgid "Enquiry Cart"
+msgstr "Aanvraagmand"
+
+msgid "Enable the enquiry cart. Make sure you have not enabled to remove the add to cart button in general settings."
+msgstr "Schakel de aanvraagmand in. Zorg dat je in de algemene instellingen niet hebt ingeschakeld dat de knop 'In winkelwagen' wordt verwijderd."
+
+msgid "Remove Coupons from Cart"
+msgstr "Verwijder coupons uit winkelwagen"
+
+msgid "Remove Cross Sells from Cart"
+msgstr "Cross-sells uit winkelwagen verwijderen"
+
+msgid "Clear & Redirect Cart"
+msgstr "Winkelwagen legen en doorsturen"
+
+msgid "For CF7 only - after Submit remove all products from cart and redirect."
+msgstr "Alleen voor CF7 - na verzenden alle producten uit de winkelwagen verwijderen en doorsturen."
+
+msgid "Remove Checkout from Cart"
+msgstr "Afrekenen uit winkelwagen verwijderen"
+
+msgid "Show price in Form"
+msgstr "Prijs in formulier tonen"
+
+msgid "Show SKU in Form"
+msgstr "SKU in formulier tonen"
+
+msgid "Show Quantity in Form"
+msgstr "Aantal in formulier tonen"
+
+msgid "Show Custom Attributes"
+msgstr "Aangepaste attributen tonen"
+
+msgid "Show Total in Form"
+msgstr "Totaal in formulier tonen"
+
+msgid "Add to Cart Button Text"
+msgstr "Tekst van de knop 'In winkelwagen'"
+
+msgid "Add to Enquiry Basket"
+msgstr "Toevoegen aan aanvraagmand"
+
+msgid "Enquiry Button Text"
+msgstr "Tekst van de aanvraagknop"
+
+msgid "Send Enquiry"
+msgstr "Aanvraag versturen"
+
+msgid "Button Action"
+msgstr "Knopactie"
+
+msgid "What happens when the User clicks the button."
+msgstr "Wat er gebeurt als de gebruiker op de knop klikt."
+
+msgid "Open enquiry form"
+msgstr "Aanvraagformulier openen"
+
+msgid "Go to custom URL"
+msgstr "Ga naar aangepaste URL"
+
+msgid "Strip white spaces from variation data"
+msgstr "Spaties uit variatiegegevens verwijderen"
+
+msgid "Disable this when you want to keep line breaks in variation data in the enquiry form."
+msgstr "Schakel dit uit als je regeleinden in variatiegegevens in het aanvraagformulier wilt behouden."
+
+msgid "Button Action Hook"
+msgstr "Hook van de knopactie"
+
+msgid "At what hook position should the button appear."
+msgstr "Op welke hookpositie de knop moet verschijnen."
+
 msgid "woocommerce_cart_actions"
-msgstr "woocommerce_cart_actions"
+msgstr ""
+
+msgid "woocommerce_after_cart"
+msgstr ""
+
+msgid "Enquiry Title"
+msgstr "Titel van de aanvraag"
+
+msgid "The title of the enquiry Modal"
+msgstr "De titel van het modale aanvraagvenster"
+
+msgid "Enquiry contact form"
+msgstr "Contactformulier voor aanvragen"
+
+msgid "Please insert your contact form shortcode. Here is an <a href=\"https://www.welaunch.io/en/knowledge-base/faq/example-enquiry-cart-form-for-woocommerce/\" target=\"_blank\">example enquiry cart form</a> for CF7 plugin"
+msgstr "Voeg de shortcode van je contactformulier in. Hier is een <a href=\"https://www.welaunch.io/en/knowledge-base/faq/example-enquiry-cart-form-for-woocommerce/\" target=\"_blank\">voorbeeldformulier voor de aanvraagmand</a> voor de CF7-plugin"
+
+msgid "Products Field Name"
+msgstr "Naam van het productenveld"
+
+msgid "Set the field name of your Products field here, so that our plugin can copy selected Products into the field automatically."
+msgstr "Stel hier de veldnaam van je productenveld in, zodat onze plugin de geselecteerde producten automatisch in het veld kan kopiëren."
+
+msgid "Enquiry Modal size"
+msgstr "Grootte van het modale aanvraagvenster"
+
+msgid "Size of the Enquiry modal."
+msgstr "Grootte van het modale aanvraagvenster."
+
+msgid "Normal"
+msgstr "Normaal"
+
+msgid "Small"
+msgstr "Klein"
+
+msgid "Large"
+msgstr "Groot"
+
+msgid "Button custom URL"
+msgstr "Aangepaste URL van de knop"
+
+msgid "The URL where the user will be sent to when he clicked the button."
+msgstr "De URL waarnaar de gebruiker wordt gestuurd als hij op de knop klikt."
+
+msgid "Button custom URL target"
+msgstr "Doel van de aangepaste URL van de knop"
+
+msgid "The target attribute of the link."
+msgstr "Het target-attribuut van de link."
+
+msgid "_self (same Window)"
+msgstr "_self (zelfde venster)"
+
+msgid "_blank (new Window)"
+msgstr "_blank (nieuw venster)"
+
+msgid "_parent (parent Window)"
+msgstr "_parent (bovenliggend venster)"
+
+msgid "_top (full body of the Window)"
+msgstr "_top (het hele venster)"
+
+msgid "Product Categories"
+msgstr "Productcategorieën"
+
+msgid "Adds a custom enquiry / go to button in product category pages."
+msgstr "Voegt een aangepaste aanvraag- / doorverwijsknop toe op productcategoriepagina's."
+
+msgid "Enables the custom button on loop pages."
+msgstr "Schakelt de aangepaste knop in op loop-pagina's."
+
+msgid "Always show loop button"
+msgstr "Loop-knop altijd tonen"
+
+msgid "This will prevent the loop button from disappearing if the product is on the exclusion list."
+msgstr "Voorkomt dat de loop-knop verdwijnt als het product op de uitsluitingslijst staat."
+
+msgid "Text inside the custom button."
+msgstr "Tekst in de aangepaste knop."
+
+msgid "Go to product page"
+msgstr "Ga naar de productpagina"
+
+msgid "Enquiry Form"
+msgstr "Aanvraagformulier"
+
+msgid "Button Hook"
+msgstr "Hook van de knop"
+
+msgid "If you use a custom template builder, use our <a href=\"https://www.welaunch.io/en/knowledge-base/faq/shortcodes-for-woocommerce-catalog-mode-plugin/\" target=\"_blank\">catalog mode shortcodes</a>."
+msgstr "Gebruik je een aangepaste template builder, gebruik dan onze <a href=\"https://www.welaunch.io/en/knowledge-base/faq/shortcodes-for-woocommerce-catalog-mode-plugin/\" target=\"_blank\">shortcodes voor de catalogusmodus</a>."
+
+msgid "Button Hook Priority"
+msgstr "Prioriteit van de knophook"
+
+msgid "Single Product Pages"
+msgstr "Productpagina's"
+
+msgid "Replace the add to cart button on single product pages with your own."
+msgstr "Vervang de knop 'In winkelwagen' op productpagina's door je eigen knop."
+
+msgid "Enables the single product custom button."
+msgstr "Schakelt de aangepaste knop op de productpagina in."
+
+msgid "Always show button"
+msgstr "Knop altijd tonen"
+
+msgid "This will prevent the single product button from disappearing if the product is on the exclusion list."
+msgstr "Voorkomt dat de knop op de productpagina verdwijnt als het product op de uitsluitingslijst staat."
+
+msgid "Only Out of Stock"
+msgstr "Alleen bij uitverkocht"
+
+msgid "Only show the send enquiry button when product is out of stock."
+msgstr "Toon de knop 'Aanvraag versturen' alleen als het product uitverkocht is."
+
+msgid "Add Quantity to Name"
+msgstr "Aantal aan naam toevoegen"
+
+msgid "When enabled and quantity field appears on product page, it will add the quantity as a prefix."
+msgstr "Indien ingeschakeld en er een aantalveld op de productpagina staat, wordt het aantal als voorvoegsel toegevoegd."
+
+msgid "Button Position"
+msgstr "Positie van de knop"
+
+msgid "Specify the position of the Button. If you use a custom template builder, use our <a href=\"https://www.welaunch.io/en/knowledge-base/faq/shortcodes-for-woocommerce-catalog-mode-plugin/\" target=\"_blank\">catalog mode shortcodes</a>."
+msgstr "Geef de positie van de knop op. Gebruik je een aangepaste template builder, gebruik dan onze <a href=\"https://www.welaunch.io/en/knowledge-base/faq/shortcodes-for-woocommerce-catalog-mode-plugin/\" target=\"_blank\">shortcodes voor de catalogusmodus</a>."
+
+msgid "Before Add To Cart Form"
+msgstr "Voor het formulier 'In winkelwagen'"
+
+msgid "Before Add To Cart Quantity"
+msgstr "Voor het aantal bij 'In winkelwagen'"
+
+msgid "After Add To Cart Quantity"
+msgstr "Na het aantal bij 'In winkelwagen'"
+
+msgid "After Add To Cart Button"
+msgstr "Na de knop 'In winkelwagen'"
+
+msgid "After Add To Cart Form"
+msgstr "Na het formulier 'In winkelwagen'"
+
+msgid "Button Priority"
+msgstr "Prioriteit van de knop"
+
+msgid "Custom Button URL target"
+msgstr "Doel van de aangepaste knop-URL"
+
+msgid "Enquiry Position"
+msgstr "Positie van de aanvraag"
+
+msgid "The position of the enquiry form. This helps <a href=\"http://contactform7.com/special-mail-tags/\" target=\"_blank\">special mail tags</a> to work correctly."
+msgstr "De positie van het aanvraagformulier. Dit helpt <a href=\"http://contactform7.com/special-mail-tags/\" target=\"_blank\">speciale e-mailtags</a> correct te werken."
+
+msgid "Please insert your contact form shortcode. Here is an <a href=\"https://www.welaunch.io/en/knowledge-base/faq/example-single-product-enquiry-form/\" target=\"_blank\">example Single product enquiry form</a> for CF7 form plugin."
+msgstr "Voeg de shortcode van je contactformulier in. Hier is een <a href=\"https://www.welaunch.io/en/knowledge-base/faq/example-single-product-enquiry-form/\" target=\"_blank\">voorbeeld van een aanvraagformulier per product</a> voor de CF7-plugin."
+
+msgid "SKU Field Name"
+msgstr "Naam van het SKU-veld"
+
+msgid "Set the field name of your SKU field here, so that our plugin can copy selected SKU into the field automatically."
+msgstr "Stel hier de veldnaam van je SKU-veld in, zodat onze plugin de geselecteerde SKU automatisch in het veld kan kopiëren."
+
+msgid "SKU Field Selector"
+msgstr "Selector van het SKU-veld"
+
+msgid "Inspect html code of your site if SKU data does not get taken over."
+msgstr "Bekijk de HTML-code van je site als SKU-gegevens niet worden overgenomen."
+
+msgid "Product Field Name"
+msgstr "Naam van het productveld"
+
+msgid "Set the field name of your Product field here, so that our plugin can copy selected Product into the field automatically."
+msgstr "Stel hier de veldnaam van je productveld in, zodat onze plugin het geselecteerde product automatisch in het veld kan kopiëren."
+
+msgid "Product Field Selector"
+msgstr "Selector van het productveld"
+
+msgid "Inspect html code of your site if product data does not get taken over."
+msgstr "Bekijk de HTML-code van je site als productgegevens niet worden overgenomen."
+
+msgid "Product Field Selector Fallback"
+msgstr "Selector van het productveld (terugval)"
+
+msgid "Fallback if no value found for product field selector."
+msgstr "Terugvalwaarde als er geen waarde voor de productveldselector is gevonden."
+
+msgid "URL Form Field"
+msgstr "Formulierveld URL"
+
+msgid "Set the field name of your form for the current URL here."
+msgstr "Stel hier de veldnaam van je formulier voor de huidige URL in."
+
+msgid "Categories Form Field"
+msgstr "Formulierveld categorieën"
+
+msgid "Set the field name of your form for the current Categories here."
+msgstr "Stel hier de veldnaam van je formulier voor de huidige categorieën in."
+
+msgid "Variation Products"
+msgstr "Producten met variaties"
+
+msgid "Configure if you want to show variations."
+msgstr "Stel in of je variaties wilt tonen."
+
+msgid "Enable to show variations."
+msgstr "Schakel in om variaties te tonen."
+
+msgid "Display as"
+msgstr "Weergeven als"
+
+msgid "Dropdown"
+msgstr "Keuzelijst"
+
+msgid "Table"
+msgstr "Tabel"
+
+msgid "Show Image"
+msgstr "Afbeelding tonen"
+
+msgid "Enable to show the variation Image."
+msgstr "Schakel in om de afbeelding van de variatie te tonen."
+
+msgid "Show SKU"
+msgstr "SKU tonen"
+
+msgid "Enable to show the variation SKU."
+msgstr "Schakel in om de SKU van de variatie te tonen."
+
+msgid "Show Description"
+msgstr "Beschrijving tonen"
+
+msgid "Enable to show the variation description."
+msgstr "Schakel in om de beschrijving van de variatie te tonen."
+
+msgid "Show Price"
+msgstr "Prijs tonen"
+
+msgid "Enable to show the variation price."
+msgstr "Schakel in om de prijs van de variatie te tonen."
+
+msgid "Show Attributes"
+msgstr "Attributen tonen"
+
+msgid "Enable to show the variation attributes."
+msgstr "Schakel in om de attributen van de variatie te tonen."
+
+msgid "Which product categories should be excluded by the catalog mode."
+msgstr "Welke productcategorieën moeten worden uitgesloten van de catalogusmodus."
+
+msgid "Exclude Products"
+msgstr "Producten uitsluiten"
+
+msgid "Which products should be excluded by the catalog mode."
+msgstr "Welke producten moeten worden uitgesloten van de catalogusmodus."
+
+msgid "Revert Products Exclusion"
+msgstr "Uitsluiting van producten omkeren"
+
+msgid "Only include zero price products"
+msgstr "Alleen producten met prijs 0 opnemen"
+
+msgid "Only products with a price 0 will be affected, others can be sold."
+msgstr "Alleen producten met prijs 0 worden beïnvloed; andere kunnen worden verkocht."
+
+msgid "Exclude Countries"
+msgstr "Landen uitsluiten"
+
+msgid "Exclude some countries from this plugin."
+msgstr "Sluit enkele landen uit van deze plugin."
+
+msgid "Countries to exclude"
+msgstr "Uit te sluiten landen"
+
+msgid "Revert Exclusion"
+msgstr "Uitsluiting omkeren"
+
+msgid "Limitations"
+msgstr "Beperkingen"
+
+msgid "Apply Catalog Mode for specific users / roles."
+msgstr "Catalogusmodus toepassen op specifieke gebruikers / rollen."
+
+msgid "Apply for users"
+msgstr "Toepassen op gebruikers"
+
+msgid "Which user group should be affected by the catalog mode."
+msgstr "Op welke gebruikersgroep de catalogusmodus van toepassing is."
+
+msgid "Only NOT logged in"
+msgstr "Alleen NIET ingelogd"
+
+msgid "Only Logged in"
+msgstr "Alleen ingelogd"
+
+msgid "Exclude User Roles"
+msgstr "Gebruikersrollen uitsluiten"
+
+msgid "Select user roles, where the plugin should NOT apply."
+msgstr "Selecteer gebruikersrollen waarvoor de plugin NIET moet gelden."
+
+msgid "Hard Remove Price"
+msgstr "Prijs geforceerd verwijderen"
+
+msgid "This will add CSS to hide the price !important. Please only enable when your theme still shows prices."
+msgstr "Voegt CSS toe om de prijs met !important te verbergen. Schakel dit alleen in als je thema nog steeds prijzen toont."
+
+msgid "Hard Remove Add to Cart"
+msgstr "'In winkelwagen' geforceerd verwijderen"
+
+msgid "This will add CSS to hide the button using !important. Please only enable when your theme still shows the add to cart button."
+msgstr "Voegt CSS toe om de knop met !important te verbergen. Schakel dit alleen in als je thema de knop 'In winkelwagen' nog steeds toont."
+
+msgid "Hard Remove Quantity"
+msgstr "Aantal geforceerd verwijderen"
+
+msgid "This will add CSS to hide all quantity fields."
+msgstr "Voegt CSS toe om alle aantalvelden te verbergen."
+
+msgid "Only execute CSS & JS Files on category, cart & product pages."
+msgstr "Laad CSS- en JS-bestanden alleen op categorie-, winkelwagen- en productpagina's."
+
+msgid "Any %s"
+msgstr "Elke %s"

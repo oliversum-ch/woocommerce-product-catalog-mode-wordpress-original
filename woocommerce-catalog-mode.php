@@ -12,7 +12,7 @@
  * Plugin Name:       WooCommerce Catalog Mode
  * Plugin URI:        https://welaunch.io/plugins/woocommerce-catalog-mode/
  * Description:       Transform your WooCommerce Shop into a product catalog. Remove prices, hide the add to cart button and more!
- * Version:           1.8.11
+ * Version:           1.8.12
  * Author:            weLaunch
  * Author URI:        https://welaunch.io
  * License:           GPL-2.0+
